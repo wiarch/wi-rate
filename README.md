@@ -27,6 +27,12 @@ Librería profesional de Node.js y **servidor MCP** para consultar indicadores e
 - **Estado por sección** (`status.current`, `status.history`) para detectar fallos parciales.
 - **Cobertura del 100 %** forzada en CI.
 
+## Rol dentro de WI Arch
+
+WI Rate es la integración compartida de tipos de cambio para los productos del ecosistema WI Arch. Los proyectos deben reutilizar este paquete o un adaptador backend mantenido, evitando scrapers y reglas de conversión duplicadas. La guía de adopción, seguridad y criterios financieros está en [`docs/WI-ARCH-EXCHANGE-RATE-STANDARD.md`](./docs/WI-ARCH-EXCHANGE-RATE-STANDARD.md).
+
+Este repositorio contiene actualmente una librería Node.js/TypeScript, CLI y servidor MCP; **no es un servicio HTTP central alojado**. La atribución y licencia del proyecto original de José Carrillo se mantienen.
+
 ## Instalación
 
 ```bash
