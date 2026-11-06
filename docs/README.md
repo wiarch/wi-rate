@@ -4,6 +4,10 @@ Bienvenido. Esta carpeta contiene la documentación extendida del paquete. El `R
 
 ## Índice
 
+### Estándares WI Arch
+
+- [WI Arch Exchange Rate Standard](./WI-ARCH-EXCHANGE-RATE-STANDARD.md): integración compartida, seguridad TLS, precisión financiera, adopción y atribución upstream.
+
 ### Primeros pasos
 
 - [Guía de inicio](./getting-started.md): instalación, primer llamado y ejemplos mínimos.
