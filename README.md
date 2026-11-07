@@ -1,3 +1,5 @@
+> **Fork de WI Arch.** Este repositorio es el fork de WI Arch de [carrilloapps/bcv-exchange-rate](https://github.com/carrilloapps/bcv-exchange-rate) (licencia MIT). Los badges, el sitio y los enlaces de abajo corresponden al proyecto original, no a este fork.
+
 # bcv-exchange-rate
 
 [![npm version](https://img.shields.io/npm/v/bcv-exchange-rate.svg?logo=npm)](https://www.npmjs.com/package/bcv-exchange-rate)
